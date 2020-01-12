@@ -11,6 +11,8 @@ Terraform code to deploy AWS server infrastructure to bootstrap apache, java, je
 > cd aws_terraform
  ```
  
+ ### Create the terraform file (main.tf) that contains the code to bootstrap software on AWS server & security group associated with the server
+
  ```
  > touch main.tf
  ```
@@ -96,4 +98,9 @@ egress {
 
 
 ```
+### Create the terraform file (var.tf) to initialize all your variables for the terraform code to deploy the AWS infrastructure
+
+ ```
+ > touch var.tf
+ ```
 
