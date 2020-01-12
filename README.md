@@ -1,1 +1,1 @@
-# Bootstrap_Software_AWS_EC2_instance
+# Terraform code to deploy AWS server infrastructure to bootstrap apache, java, jenkins, and terraform software
