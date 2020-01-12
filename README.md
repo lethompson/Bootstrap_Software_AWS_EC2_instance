@@ -3,5 +3,10 @@ Terraform code to deploy AWS server infrastructure to bootstrap apache, java, je
 
 
 ### First create a directory to place all terraform code
-#### > mkdir aws_terraform
-#### > cd aws_terraform
+```
+> mkdir aws_terraform
+```
+
+```
+> cd aws_terraform
+ ```
