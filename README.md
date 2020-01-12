@@ -115,5 +115,29 @@ default = 80
 }
 
 ```
+ ### Steps to run the terraform code to deploy the AWS Infrastructure
+ 
+ ```
+ > terraform init
+ ```
+ 
+ ```
+ > terraform validate
+ ```
+ 
+ ```
+ > terraform plan -out=tfplan
+ ```
+ 
+ ```
+ > terraform apply tfplan
+ ```
+  ### To destroy the AWS infrastructure deployed from the terraform code
+  
+ ```
+ > terraform destroy
+ ```
+
+ 
  
 
