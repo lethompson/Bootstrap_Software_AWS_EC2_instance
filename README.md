@@ -142,4 +142,6 @@ default = 80
 
 ![AWS Bootstrap EC2](https://github.com/lethompson/Bootstrap_Software_AWS_EC2_instance/blob/master/AWS_BootstrapServer_TF.PNG)
  
-
+ ### Copy the AWS EC2 public IP in a web browser to see the index.html page
+ 
+ ![AWS Jenkins Server](https://github.com/lethompson/Bootstrap_Software_AWS_EC2_instance/blob/master/AWS_BootstrapServer_TF2.PNG)
