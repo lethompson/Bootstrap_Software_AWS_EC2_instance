@@ -138,6 +138,8 @@ default = 80
  > terraform destroy
  ```
 
- 
+ ### AWS EC2 instance deployed using the Terraform code
+
+![AWS Bootstrap EC2](https://github.com/lethompson/Bootstrap_Software_AWS_EC2_instance/blob/master/AWS_BootstrapServer_TF.PNG)
  
 
